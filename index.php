@@ -1,6 +1,6 @@
 <?php 
 
-require 'vendor/autoload.php';
+require 'vendor/autoload.php'; 
 $smarty = new Smarty();
 
 $debug = 1; //tukar jadi 1 kalau nk tgk error
