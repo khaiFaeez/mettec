@@ -117,7 +117,7 @@
 								   			<div class="row">
 									   			<div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
 									   				<div class="slider-text-inner text-center">
-									   					<h2>METTIC SYSTEME</h2>
+									   					<h2>METTEC SYSTEME</h2>
 									   					<div id="product_name" style="text-align: center;">
 									   						{if $product.product_name != ''}{$product.product_name}{else}<h1>#product_name</h1>{/if}
 									   					</div>									   					

@@ -5,7 +5,7 @@
 						<div class="col-xs-5ths colorlib-widget">
 						    <p><img src="images/logo.webp"></p>
 							<!-- <h4>About Mettic</h4> -->
-							<!-- <p>Mettic Systeme is a company that is committed to delivering excellent engineering solutions.</p> -->
+							<!-- <p>Mettec Systeme is a company that is committed to delivering excellent engineering solutions.</p> -->
 							<p>
 								<ul class="colorlib-social-icons">
 									<li><a href="#"><i class="icon-twitter"></i></a></li>
@@ -18,7 +18,7 @@
 						<div class="col-xs-3">
 							<h4>Malaysia</h4>
 							<ul class="colorlib-footer-links">								
-								<li>Mettic Systeme Sdn Bhd
+								<li>Mettec Systeme Sdn Bhd
 									<br>(1169100-K)
 									<br>Lot 684-A, Jalan 2C, 
 									<br>Kampung Baru Subang,
@@ -33,7 +33,7 @@
 						<!-- <div class="col-xs-5ths">
 							<h4>India</h4>
 							<ul class="colorlib-footer-links">
-								<li>Mettic Systeme India Pvt Ltd
+								<li>Mettec Systeme India Pvt Ltd
 									<br>(U45209MH2020PTC339909)
 									<br>Flat No - 403, 4th Floor, 
 									<br>Satyavijay Co - Op Hsg Society, 
@@ -76,7 +76,7 @@
 						<div class="col-md-12 text-center">
 							<p>
 								<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-	     					<small class="block">&copy; <script>document.write(new Date().getFullYear());</script> Copyright Mettic Systeme Sdn Bhd.  <br>This template is made with <i class="icon-heart3" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a></small>
+	     					<small class="block">&copy; <script>document.write(new Date().getFullYear());</script> Copyright Mettec Systeme Sdn Bhd.  <br>This template is made with <i class="icon-heart3" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a></small>
 	    					<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 							</p>
 						</div>

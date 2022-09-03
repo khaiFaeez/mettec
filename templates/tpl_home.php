@@ -70,7 +70,7 @@
 							</div>
 						</div>
 						<!-- <div class="col-md-4 animate-box">
-							<p>Mettic Systeme is a company that is committed to delivering excellent engineering solutions</p>
+							<p>Mettec Systeme is a company that is committed to delivering excellent engineering solutions</p>
 						</div> -->
 					</div>
 				</div>
@@ -266,7 +266,7 @@
 							
 						</div>
 						<!-- <div class="col-md-4 animate-box">
-							<p>Mettic Systeme is a company that is committed to delivering excellent engineering solutions</p>
+							<p>Mettec Systeme is a company that is committed to delivering excellent engineering solutions</p>
 						</div> -->
 					</div>
 				</div>

@@ -16,7 +16,7 @@
 			   			<div class="row">
 				   			<div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   					<h2>Mettic Systeme</h2>
+				   					<h2>Mettec Systeme</h2>
 				   					<h1>About Our Company</h1>
 				   				</div>
 				   			</div>
@@ -33,7 +33,7 @@
 					<div class="col-md-6">
 						<div class="about animate-box">
 							<h2>Committed to delivering excellence</h2>
-							<p class="text-justify">Mettic Systeme is a diversified manufacturer and supplier of premium building products and related technologies for the construction industry. Mettic Systeme carries a lot of recognized brands in the construction industry. 
+							<p class="text-justify">Mettec Systeme is a diversified manufacturer and supplier of premium building products and related technologies for the construction industry. Mettec Systeme carries a lot of recognized brands in the construction industry. 
 							<br><br>
 							We are the professional choices for contractors and we are confident that you’ll find what you are looking for with our wide product ranges. We put great pride into the relationships and partnerships that we form with our clients.</p>
 						</div>
@@ -75,7 +75,7 @@
 						<h2><span class="thin">Our</span> <span class="thick">Promise</span></h2>						
 					</div>
 					<div class="col-md-7">
-						<p class="text-justify">Mettic Systeme is built upon time tested values of excellence and integrity. This means working to the highest ethical standards and being measured by the enduring quality of our products.
+						<p class="text-justify">Mettec Systeme is built upon time tested values of excellence and integrity. This means working to the highest ethical standards and being measured by the enduring quality of our products.
 						<br><br>
 						WE are committed to leaving legacy of progress by developing local skills for sustained economic opportunity and volunteering our time and talent to the communities where we work.</p>
 					</div>

@@ -40,10 +40,10 @@
 									<p><span><i class="icon-phone3"></i></span><br><a href="tel://601136051024">+6011 3605 1024</a></p>
 								</div>
 								<div class="col-md-3">
-									<p><span><i class="icon-paperplane"></i></span><br><a href="mailto:enquiry@metticsysteme.com">enquiry@metticsysteme.com</a></p>
+									<p><span><i class="icon-paperplane"></i></span><br><a href="mailto:enquiry@Mettecsysteme.com">enquiry@Mettecsysteme.com</a></p>
 								</div>
 								<div class="col-md-3">
-									<p><span><i class="icon-globe"></i></span><br><a href="#">metticsysteme.com</a></p>
+									<p><span><i class="icon-globe"></i></span><br><a href="#">Mettecsysteme.com</a></p>
 								</div>
 							</div>
 						</div>

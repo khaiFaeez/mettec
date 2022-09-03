@@ -16,7 +16,7 @@
 				   			<div class="row">
 					   			<div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
 					   				<div class="slider-text-inner text-center">
-					   					<h2>METTIC SYSTEME</h2>
+					   					<h2>METTEC SYSTEME</h2>
 					   					<h1>Our Products</h1>
 					   				</div>
 					   			</div>
@@ -32,7 +32,7 @@
 				<div class="row">
 					<div class="col-md-6 colorlib-heading animate-box">						
 						<p class="text-justify">
-							Mettic Systeme provides a wide range of construction materials and construction chemicals. The harmonized product range allows the easy selection as well as ideal combination and processing of individual construction materials.
+							METTEC Systeme provides a wide range of construction materials and construction chemicals. The harmonized product range allows the easy selection as well as ideal combination and processing of individual construction materials.
 						</p>
 						<p class="text-justify">
 							Thanks to versatile fields of application such as commercial and residential buildings, bridges, power plants, marine engineering, railways, the proper function of project site can be ensured in the long run by the use of our product systems
