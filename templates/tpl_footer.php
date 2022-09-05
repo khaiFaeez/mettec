@@ -3,7 +3,7 @@
 					<div class="row row-pb-md">
 					
 						<div class="col-xs-5ths colorlib-widget">
-						    <p><img src="images/logo.webp"></p>
+						    <p><img src="images/logo.png"></p>
 							<!-- <h4>About Mettic</h4> -->
 							<!-- <p>Mettec Systeme is a company that is committed to delivering excellent engineering solutions.</p> -->
 							<p>

@@ -9,7 +9,7 @@
 				<div class="container">
 
 				<div class="row">
-					<div id="colorlib-logo"><a href="./index.php?module=home"><img src="images/logo.webp"></a></div>
+					<div id="colorlib-logo"><a href="./index.php?module=home"><img src="images/logo.png"></a></div>
 					<br>
 				</div>
 				<div id="error_alert_div" style="display: none">

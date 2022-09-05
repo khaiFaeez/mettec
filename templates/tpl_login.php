@@ -28,7 +28,7 @@
 				  	
 					<div class="text-center">
 							<br>
-						<div id="colorlib-logo"><a href="./index.php?module=home"><img src="images/logo.webp"></a></div>
+						<div id="colorlib-logo"><a href="./index.php?module=home"><img src="images/logo.png"></a></div>
 						<br><br>
 						<h1>Login</h1>
 						  <form action="./index.php?module=login" method="POST" enctype="multipart/form-data">
