@@ -1,13 +1,27 @@
-<nav class="colorlib-nav" role="navigation">
-				<div class="top-menu">
-					<div class="container">
+<Style>
+	.colorlib-nav ul li a
+	{
+		color:#1E2022 !important;
+	}
+	.colorlib-nav ul li.has-dropdown .dropdown
+	{
+		background: #fff !important;
+	}
+	.colorlib-nav .top-menu {
+    	padding: 20px 10px !important;
+	}
+</Style>
+
+<nav class="colorlib-nav" role="navigation" style="background-color: white;opacity: 0.7;">
+				<div class="top-menu" >
+					<div class="container" >
 						<div class="row">
 							<div class="col-xs-2">
 								<div id="colorlib-logo"><a href="./index.php?module=home"><img src="images/logo.png"></a></div>
 							</div>
 							<div class="col-xs-10 text-right menu-1">
-								<ul>
-									<li {if $module == 'home'}class="active"{/if}><a href="./index.php?module=home">Home</a></li>
+								<ul  >
+									<li  {if $module == 'home'}class="active"{/if}><a href="./index.php?module=home">Home</a></li>
 									<li {if $module == 'about'}class="active"{/if}><a href="./index.php?module=about">About</a></li>
 									<li ></li>
 									<li class="has-dropdown {if $module == 'products' || $module == 'product'}active{/if}">
