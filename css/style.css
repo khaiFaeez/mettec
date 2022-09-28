@@ -386,8 +386,11 @@ h1, h2, h3, h4, h5, h6, figure {
 #colorlib-counter,
 #colorlib-subscribe,
 #colorlib-footer {
-  padding: 7em 0;
+  padding: 5em 0;
   clear: both; }
+  #colorlib-footer2{
+    padding: 2em 0;
+    clear: both; }
   @media screen and (max-width: 768px) {
     #colorlib-intro,
     #colorlib-about,
@@ -1069,10 +1072,48 @@ input[type="text"] {
   color: #fff;
   border: none;
   padding: 14px; }
+#colorlib-footer2 {
+    background: #333333;
+    color: rgba(255, 255, 255, 0.6) !important; 
+    font-size: 14px;
+}
+#colorlib-footer2 .colorlib-footer-links {
+  padding: 0;
+  margin: 0; }
+  @media screen and (max-width: 768px) {
+    #colorlib-footer2 .colorlib-footer-links {
+      margin-bottom: 30px; } }
+  #colorlib-footer2 .colorlib-footer-links li {
+    padding: 0;
+    margin: 0 0 10px 0;
+    list-style: none;
+    display: block; }
+    #colorlib-footer2 .colorlib-footer-links li span {
+      display: block;
+      font-size: 13px; }
+    #colorlib-footer2 .colorlib-footer-links li a {
+      color: rgba(255, 255, 255, 0.9);
+      text-decoration: none; }
+      #colorlib-footer2 .colorlib-footer-links li a i {
+        padding-right: 10px;
+        color: #f7941e; }
+      #colorlib-footer2 .colorlib-footer-links li a:hover {
+        text-decoration: none; }/*underline*/
+#colorlib-footer2 .colorlib-social-icons li a {
+  padding-left: 10px;
+  padding-right: 10px; }
+  #colorlib-footer2 .colorlib-social-icons li a:first-child {
+    padding-left: 0; }
+#colorlib-footer2 h4 {
+  margin-bottom: 30px;
+  font-size: 13px;
+  color: #e6e6e6;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-weight: 700; }
 
 #colorlib-footer {
-  background: #1E2022;
-  color: rgba(255, 255, 255, 0.6) !important; 
+  color: #333333 !important; 
   font-size: 14px;
 }
   #colorlib-footer .colorlib-footer-links {
@@ -1090,11 +1131,11 @@ input[type="text"] {
         display: block;
         font-size: 13px; }
       #colorlib-footer .colorlib-footer-links li a {
-        color: rgba(255, 255, 255, 0.9);
+        
         text-decoration: none; }
         #colorlib-footer .colorlib-footer-links li a i {
           padding-right: 10px;
-          color: #f7941e; }
+          color: #030D80; }
         #colorlib-footer .colorlib-footer-links li a:hover {
           text-decoration: none; }/*underline*/
   #colorlib-footer .colorlib-social-icons li a {
@@ -1105,7 +1146,7 @@ input[type="text"] {
   #colorlib-footer h4 {
     margin-bottom: 30px;
     font-size: 13px;
-    color: #e6e6e6;
+    color: #00064C;
     text-transform: uppercase;
     letter-spacing: 5px;
     font-weight: 700; }

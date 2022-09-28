@@ -72,6 +72,12 @@
 							<p></p>
 						</div>
 					</div>
+					
+				</div>
+			</footer>
+			<footer id="colorlib-footer2" role="contentinfo">
+				<div class="container">
+					
 					<div class="row">
 						<div class="col-md-12 text-center">
 							<p>
@@ -83,3 +89,5 @@
 					</div>
 				</div>
 			</footer>
+		
+		
