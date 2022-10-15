@@ -17,7 +17,7 @@
 					<div class="container" >
 						<div class="row">
 							<div class="col-xs-2">
-								<div id="colorlib-logo"><a href="./index.php?module=home"><img src="images/logo.png"></a></div>
+								<div id="colorlib-logo"><a href="./index.php?module=home"><img src="images/logo.png" style="width:160px;"></a></div>
 							</div>
 							<div class="col-xs-10 text-right menu-1">
 								<ul  >
