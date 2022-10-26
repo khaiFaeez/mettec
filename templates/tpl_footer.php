@@ -34,8 +34,7 @@
 							<h4>India</h4>
 							<ul class="colorlib-footer-links">
 								<li>Mettec Systeme India Pvt Ltd
-									<br>No 408 - B, 
-									<br>Kailas Business Park, 
+									<br>No 408 - B, Kailas Business Park, 
 									<br>Hiranandani Vikhroli Road, 							
 									<br>Vikhroli West, 
 									<br>400079, Mumbai,
