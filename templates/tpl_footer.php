@@ -30,20 +30,20 @@
 								<!-- <li><a href="http://metticsysteme.com"><i class="icon-location4"></i> metticsysteme.com</a></li> -->
 							</ul>
 						</div>
-						<!-- <div class="col-xs-5ths">
+						<div class="col-xs-5ths">
 							<h4>India</h4>
 							<ul class="colorlib-footer-links">
 								<li>Mettec Systeme India Pvt Ltd
-									<br>(U45209MH2020PTC339909)
-									<br>Flat No - 403, 4th Floor, 
-									<br>Satyavijay Co - Op Hsg Society, 
-									Samata Colony,<br>Pant Nagar, 
-									<br>Ghatkopar East Mumbai 
-									<br>400075, India.
-								<li><a href="tel://601136051024"><i class="icon-phone"></i>&nbsp;&nbsp;+91 96194 03064</a></li>
+									<br>No 408 - B, 
+									<br>Kailas Business Park, 
+									<br>Hiranandani Vikhroli Road, 							
+									<br>Vikhroli West, 
+									<br>400079, Mumbai,
+									<br>Maharashtra, INDIA 
+								<li><a href="tel://91224608102"><i class="icon-phone"></i>&nbsp;&nbsp;+9122 4608 1024</a></li>
 								<li><a href="mailto:enquiry@metticsysteme.com" style="font-size: 12px"><i class="icon-envelope"></i>enquiry@metticsysteme.com</a></li>
 							</ul>
-						</div> -->
+						</div>
 						<div class="col-xs-3">
 							<h4>Bangladesh</h4>
 							<ul class="colorlib-footer-links">
@@ -55,7 +55,7 @@
 									<br>Bangladesh.
 									<br><br>
 								</li>
-								<li><a href="tel://601136051024"><i class="icon-phone"></i>&nbsp;&nbsp;+88 01716 155266</a></li>
+								<li><a href="tel://8801716155266"><i class="icon-phone"></i>&nbsp;&nbsp;+88 01716 155266</a></li>
 								<li><a href="mailto:enquiry@metticsysteme.com" style="font-size: 12px"><i class="icon-envelope"></i>enquiry@metticsysteme.com</a></li>
 								<!-- <li><a href="http://metticsysteme.com"><i class="icon-location4"></i> metticsysteme.com</a></li> -->
 							</ul>
