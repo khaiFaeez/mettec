@@ -12,7 +12,7 @@
 	}
 </Style>
 
-<nav class="colorlib-nav" role="navigation" style="background-color: white;opacity: 0.7;">
+<nav class="colorlib-nav" role="navigation" style="background-color: white;">
 				<div class="top-menu" >
 					<div class="container" >
 						<div class="row">
