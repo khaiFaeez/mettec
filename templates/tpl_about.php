@@ -32,7 +32,7 @@
 				<div class="row "><!-- row-pb-lg -->
 					<div class="col-md-6">
 						<div class="about animate-box">
-							<h2>Committed to delivering excellence</h2>
+							<h2>Committed To Delivering Excellence</h2>
 							<p class="text-justify">Mettec Systeme is a diversified manufacturer and supplier of premium building products and related technologies for the construction industry. Mettec Systeme carries a lot of recognized brands in the construction industry. 
 							<br><br>
 							We are the professional choices for contractors and we are confident that you’ll find what you are looking for with our wide product ranges. We put great pride into the relationships and partnerships that we form with our clients.</p>
@@ -56,7 +56,7 @@
 					</div>
 
 					<div class="col-md-6 animate-box colorlib-heading inline-span animate-box">
-						<h2><span class="thin">Our</span> <span class="thick">Vission</span></h2>
+						<h2><span class="thin">Our</span> <span class="thick">Vision</span></h2>
 						<p class="text-justify">To be the premier organization operating locally that provides the complete range of quality building materials to all segments under one roof, locally and internationally.</p>
 					</div>
 					<div class="col-md-5 col-md-offset-1 ">
