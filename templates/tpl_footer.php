@@ -60,6 +60,22 @@
 							</ul>
 						</div>
 						<div class="col-xs-3">
+							<h4>Sri Lanka</h4>
+							<ul class="colorlib-footer-links">
+								<li>Mettec Systeme Lanka (Pvt) Ltd
+									<br>(001890864-0503)
+									<br>510, Lucky Plaza, 
+									<br>8 Agrabad C/A,
+									<br>Chattogram - 4100,
+									<br>Sri Lanka.
+									<br><br>
+								</li>
+								<li><a href="tel://8801716155266"><i class="icon-phone"></i>&nbsp;&nbsp;+88 01716 155266</a></li>
+								<li><a href="mailto:enquiry@metticsysteme.com" style="font-size: 12px"><i class="icon-envelope"></i>enquiry@metticsysteme.com</a></li>
+								<!-- <li><a href="http://metticsysteme.com"><i class="icon-location4"></i> metticsysteme.com</a></li> -->
+							</ul>
+						</div>
+						<div class="col-xs-3">
 							<h4>Quick Menu</h4>
 							<p>
 								</p><ul class="colorlib-footer-links">
