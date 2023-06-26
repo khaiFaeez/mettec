@@ -75,7 +75,7 @@
 								<!-- <li><a href="http://metticsysteme.com"><i class="icon-location4"></i> metticsysteme.com</a></li> -->
 							</ul>
 						</div>
-						<div class="col-xs-3">
+						<!-- <div class="col-xs-3">
 							<h4>Quick Menu</h4>
 							<p>
 								</p><ul class="colorlib-footer-links">
@@ -85,7 +85,7 @@
 									<li><a href="./index.php?module=contact"><i class="icon-check"></i> Contact</a></li>
 								</ul>
 							<p></p>
-						</div>
+						</div> -->
 					</div>
 					
 				</div>
