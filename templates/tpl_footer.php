@@ -16,7 +16,7 @@
 							</p>
 						</div>
 						<div class="col-xs-3">
-							<h4>Malaysia </h4>
+							<h4>Malaysias </h4>
 							<ul class="colorlib-footer-links">								
 								<li>Mettec Systeme Sdn Bhd
 									<br>(1169100-K)
