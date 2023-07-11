@@ -2,7 +2,7 @@
 				<div class="container">
 					<div class="row row-pb-md">
 					
-						<div class="col-xs-5ths colorlib-widget">
+						<div class="col-xs-2 colorlib-widget">
 						    <p><img src="images/logo.png" style="width:160px;"></p>
 							<!-- <h4>About Mettic</h4> -->
 							<!-- <p>Mettec Systeme is a company that is committed to delivering excellent engineering solutions.</p> -->
@@ -15,7 +15,7 @@
 								</ul>
 							</p>
 						</div>
-						<div class="col-xs-3">
+						<div class="col-xs-2">
 							<h4>Malaysia</h4>
 							<ul class="colorlib-footer-links">								
 								<li>Mettec Systeme Sdn Bhd
@@ -30,7 +30,7 @@
 								<!-- <li><a href="http://metticsysteme.com"><i class="icon-location4"></i> metticsysteme.com</a></li> -->
 							</ul>
 						</div>
-						<div class="col-xs-5ths">
+						<div class="col-xs-2">
 							<h4>India</h4>
 							<ul class="colorlib-footer-links">
 								<li>Mettec Systeme India Pvt Ltd
@@ -43,7 +43,7 @@
 								<li><a href="mailto:enquiry@metticsysteme.com" style="font-size: 12px"><i class="icon-envelope"></i>enquiry@metticsysteme.com</a></li>
 							</ul>
 						</div>
-						<div class="col-xs-3">
+						<div class="col-xs-2">
 							<h4>Bangladesh</h4>
 							<ul class="colorlib-footer-links">
 								<li>SKF Easy Tech Co. BD
@@ -59,7 +59,7 @@
 								<!-- <li><a href="http://metticsysteme.com"><i class="icon-location4"></i> metticsysteme.com</a></li> -->
 							</ul>
 						</div>
-						<div class="col-xs-3">
+						<div class="col-xs-2">
 							<h4>Sri Lanka</h4>
 							<ul class="colorlib-footer-links">
 								<li>Mettec Systeme Lanka (Pvt) Ltd

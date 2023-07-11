@@ -39,7 +39,7 @@
 						</div>
 					</div>
 					<div class="col-md-5 col-md-offset-1">
-						<img class="img-responsive" src="images/stock-photo-workers-in-a-foundry-casting-a-metal-workpiece-safety-at-work-and-teamwork-1680641506.jpg" alt="Free HTML5 Bootstrap Template by colorlib.com">
+						<img class="img-responsive" src="images/Picture No 1.jpg" alt="Free HTML5 Bootstrap Template by colorlib.com">
 					</div>
 				</div>
 				<div class="row section-padding">
@@ -47,7 +47,7 @@
 						<span class="sm">MISSION & VISION</span>
 					</div>					
 					<div class="col-md-5">
-						<img class="img-responsive" src="images/stock-photo-young-steel-worker-examining-manufactured-rod-cylinder-while-using-digital-tablet-in-distribution-1412368838.jpg" alt="Free HTML5 Bootstrap Template by colorlib.com">
+						<img class="img-responsive" src="images/Picture No 2.jpg" alt="Free HTML5 Bootstrap Template by colorlib.com">
 					</div>
 					<div class="col-md-6 col-md-offset-1 animate-box colorlib-heading inline-span animate-box">
 						<h2><span class="thin">Our</span> <span class="thick">Mission</span></h2>
@@ -60,7 +60,7 @@
 						<p class="text-justify">To be the premier organization operating locally that provides the complete range of quality building materials to all segments under one roof, locally and internationally.</p>
 					</div>
 					<div class="col-md-5 col-md-offset-1 ">
-						<img class="img-responsive" src="images/stock-photo-innovative-architecture-and-civil-engineering-building-construction-project-creative-graphic-1655150131.jpg" alt="Free HTML5 Bootstrap Template by colorlib.com">
+						<img class="img-responsive" src="images/Picture No 3.jpg" alt="Free HTML5 Bootstrap Template by colorlib.com">
 					</div>					
 				</div>
 			</div>

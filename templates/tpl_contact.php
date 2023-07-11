@@ -10,7 +10,7 @@
 			<aside id="colorlib-hero">
 				<div class="flexslider">
 					<ul class="slides">
-				   	<li style="background-image: url(images/img_bg_4.jpg);">
+				   	<li style="background-image: url(images/PictureNo39.jpg);">
 				   		<div class="overlay"></div>
 				   		<div class="container-fluid">
 				   			<div class="row">
@@ -90,7 +90,7 @@
 					</div>
 				</div>
 			</div>
-			<div id="map" class="colorlib-map"></div>
+			<div style="height: 400px; background-image: url(images/PictureNo39.jpg); background-size: cover;background-position: center;">ss</div>
 			<div id="colorlib-subscribe">
 				<div class="overlay"></div>
 				<div class="container">

@@ -28,8 +28,7 @@
 				   		<div class="container-fluid">
 				   			<div class="row">
 					   			<div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
-					   				<div class="slider-text-inner text-center">
-					   					<h2>Building Your Solid</h2>
+					   				<div class="slider-text-inner text-center">			
 					   					<h1>TOWARD BUILDING TOMORROW</h1>
 					   				</div>
 					   			</div>
