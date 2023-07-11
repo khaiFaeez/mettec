@@ -89,7 +89,7 @@ if($_POST['action'] == "AddProduct")
 	  $status = true;		  
 	  $_SESSION['message_type'] = 1;
 	} else {
-	  // header("Location: ./index.php?module=product_crud&message_type=2");	
+	   header("Location: ./index.php?module=product_crud&message_type=2");	
 		$status = false;
 	}
 
