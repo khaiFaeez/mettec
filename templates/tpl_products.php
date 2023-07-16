@@ -40,7 +40,7 @@
 					</div>
 					<div class="col-md-5 col-md-offset-1 colorlib-heading animate-box">						
 						
-						<img class="img-responsive" src="images/1262474764.jpg" alt="Free HTML5 Bootstrap Template by colorlib.com">
+						<img class="img-responsive" src="images/Picture No 5.jpg" alt="Free HTML5 Bootstrap Template by colorlib.com">
 					</div>
 				</div>
 				</div>
