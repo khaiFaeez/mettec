@@ -23,9 +23,8 @@
 									<br>40150 Shah Alam, 
 									<br>Selangor, Malaysia.<br><br>
 								</li>
-								<li><a href="tel://601136051024"><i class="icon-phone"></i>&nbsp;&nbsp;+6011 3605 1024</a></li>
-								<li><a href="mailto:enquiry@metticsysteme.com" style="font-size: 12px"><i class="icon-envelope"></i>enquiry@metticsysteme.com</a></li>
-								<!-- <li><a href="http://metticsysteme.com"><i class="icon-location4"></i> metticsysteme.com</a></li> -->
+								<li><a href="tel://60123501024"><i class="icon-phone"></i>&nbsp;&nbsp;+6012 350 1024</a></li>
+								
 							</ul>
 						</div>
 						<div class="col-xs-2">
@@ -38,7 +37,7 @@
 									<br>400079, Mumbai,
 									<br>Maharashtra, INDIA 
 								<li><a href="tel://91224608102"><i class="icon-phone"></i>&nbsp;&nbsp;+9122 4608 1024</a></li>
-								<li><a href="mailto:enquiry@metticsysteme.com" style="font-size: 12px"><i class="icon-envelope"></i>enquiry@metticsysteme.com</a></li>
+								
 							</ul>
 						</div>
 						<div class="col-xs-2">
@@ -53,8 +52,7 @@
 									<br><br>
 								</li>
 								<li><a href="tel://8801716155266"><i class="icon-phone"></i>&nbsp;&nbsp;+88 01716 155266</a></li>
-								<li><a href="mailto:enquiry@metticsysteme.com" style="font-size: 12px"><i class="icon-envelope"></i>enquiry@metticsysteme.com</a></li>
-								<!-- <li><a href="http://metticsysteme.com"><i class="icon-location4"></i> metticsysteme.com</a></li> -->
+								
 							</ul>
 						</div>
 						<div class="col-xs-2">
@@ -69,8 +67,7 @@
 									<br><br>
 								</li>
 								<li><a href="tel://8801716155266"><i class="icon-phone"></i>&nbsp;&nbsp;+88 01716 155266</a></li>
-								<li><a href="mailto:enquiry@metticsysteme.com" style="font-size: 12px"><i class="icon-envelope"></i>enquiry@metticsysteme.com</a></li>
-								<!-- <li><a href="http://metticsysteme.com"><i class="icon-location4"></i> metticsysteme.com</a></li> -->
+								
 							</ul>
 						</div>
 						<!-- <div class="col-xs-3">

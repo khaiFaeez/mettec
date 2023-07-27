@@ -49,7 +49,7 @@
 						</div>
 						<div class="col-md-10 col-md-offset-1 animate-box">
 							<h2>Get In Touch</h2>
-							<form action="#">
+							<form  action="mailto:khairulfaeez1510@gmail.com" method="post" enctype="text/plain">
 								<div class="row form-group">
 									<div class="col-md-6">
 										<label for="fname">First Name</label>
