@@ -8,10 +8,8 @@
 							<!-- <p>Mettec Systeme is a company that is committed to delivering excellent engineering solutions.</p> -->
 							<p>
 								<ul class="colorlib-social-icons">
-									<li><a href="#"><i class="icon-twitter"></i></a></li>
-									<li><a href="#"><i class="icon-facebook"></i></a></li>
-									<li><a href="#"><i class="icon-linkedin"></i></a></li>
-									<li><a href="#"><i class="icon-dribbble"></i></a></li>
+									<li><a href="https://www.facebook.com/mettecsysteme"><i class="icon-facebook"></i></a></li>
+									<li><a href="https://www.linkedin.com/company/mettec-system-india/"><i class="icon-linkedin"></i></a></li>									
 								</ul>
 							</p>
 						</div>

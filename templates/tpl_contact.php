@@ -37,10 +37,10 @@
 									<p><span><i class="icon-location-2"></i></span><br>LOT 684-A, JALAN 2C</br>KAMPUNG BARU SUBANG</br> 40150 SHAH ALAM</br>SELANGOR, MALAYSIA</p>
 								</div>
 								<div class="col-md-3">
-									<p><span><i class="icon-phone3"></i></span><br><a href="tel://601136051024">+6011 3605 1024</a></p>
+									<p><span><i class="icon-phone3"></i></span><br><a href="tel://60123501024">+6012 350 1024</a></p>
 								</div>
 								<div class="col-md-3">
-									<p><span><i class="icon-paperplane"></i></span><br><a href="mailto:enquiry@Mettecsysteme.com">enquiry@Mettecsysteme.com</a></p>
+									<p><span><i class="icon-paperplane"></i></span><br><a href="mailto:enquiry@metticsysteme.com">enquiry@metticsysteme.com</a></p>
 								</div>
 								<div class="col-md-3">
 									<p><span><i class="icon-globe"></i></span><br><a href="#">Mettecsysteme.com</a></p>
