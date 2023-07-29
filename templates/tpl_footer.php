@@ -44,7 +44,7 @@
 							<h4>Bangladesh</h4>
 							<ul class="colorlib-footer-links">
 								<li>SKF Easy Tech Co. BD
-									<br>(001890864-0503)
+						
 									<br>510, Lucky Plaza, 
 									<br>8 Agrabad C/A,
 									<br>Chattogram - 4100,
@@ -59,13 +59,14 @@
 							<h4>Sri Lanka</h4>
 							<ul class="colorlib-footer-links">
 								<li>Mettec Systeme Lanka (Pvt) Ltd
-									<br>(001890864-0503)
-									<br>510, Lucky Plaza, 
-									<br>8 Agrabad C/A,
-									<br>Chattogram - 4100,
+						
+									<br>No 205 – A/1A, 
+									<br>Allen Avenue, Dehiwala,
+									<br>10350 Colombo,
 									<br>Sri Lanka.
 									<br><br>
 								</li>
+
 								<li><a href="tel://8801716155266"><i class="icon-phone"></i>&nbsp;&nbsp;+88 01716 155266</a></li>
 								
 							</ul>
