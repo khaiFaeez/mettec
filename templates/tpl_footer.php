@@ -9,7 +9,8 @@
 							<p>
 								<ul class="colorlib-social-icons">
 									<li><a href="https://www.facebook.com/mettecsysteme"><i class="icon-facebook"></i></a></li>
-									<li><a href="https://www.linkedin.com/company/mettec-system-india/"><i class="icon-linkedin"></i></a></li>									
+									<li><a href="https://www.linkedin.com/company/mettec-system-india/"><i class="icon-linkedin"></i></a></li>
+									<li><a href="https://www.linkedin.com/company/mettec-system-india/"><i class="icon-whatsapp"></i></a></li>									
 								</ul>
 							</p>
 						</div>
@@ -51,7 +52,7 @@
 									<br>Bangladesh.
 									<br><br>
 								</li>
-								<li><a href="tel://8801716155266"><i class="icon-phone"></i>&nbsp;&nbsp;+88 01716 155266</a></li>
+								<li><a href="tel://8801716155266"><i class="icon-phone"></i>&nbsp;&nbsp; +880 1716 155266</a></li>
 								
 							</ul>
 						</div>
@@ -67,7 +68,7 @@
 									<br><br>
 								</li>
 
-								<li><a href="tel://8801716155266"><i class="icon-phone"></i>&nbsp;&nbsp;+88 01716 155266</a></li>
+								<li><a href="tel://940776752180"><i class="icon-phone"></i>&nbsp;&nbsp;+940 776752180 / +940 776752864</a></li>
 								
 							</ul>
 						</div>
