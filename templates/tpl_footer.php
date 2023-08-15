@@ -10,7 +10,7 @@
 								<ul class="colorlib-social-icons">
 									<li><a href="https://www.facebook.com/mettecsysteme"><i class="icon-facebook"></i></a></li>
 									<li><a href="https://www.linkedin.com/company/mettec-system-india/"><i class="icon-linkedin"></i></a></li>
-									<li><a href="https://wasap.my/60123501024"><i class="icon-whatsapp"></i></a></li>									
+									<li><a href="https://wasap.my/60123501024/hi"><i class="icon-whatsapp"></i></a></li>									
 								</ul>
 							</p>
 						</div>
