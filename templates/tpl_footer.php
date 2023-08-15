@@ -2,7 +2,7 @@
 				<div class="container">
 					<div class="row row-pb-md">
 					
-						<div class="col-xs-2 colorlib-widget">
+						<div class="col-xs-6 col-lg-2 colorlib-widget">
 						    <p><img src="images/logo.png" style="width:160px;"></p>
 							<!-- <h4>About Mettic</h4> -->
 							<!-- <p>Mettec Systeme is a company that is committed to delivering excellent engineering solutions.</p> -->
@@ -10,16 +10,16 @@
 								<ul class="colorlib-social-icons">
 									<li><a href="https://www.facebook.com/mettecsysteme"><i class="icon-facebook"></i></a></li>
 									<li><a href="https://www.linkedin.com/company/mettec-system-india/"><i class="icon-linkedin"></i></a></li>
-									<li><a href="https://www.linkedin.com/company/mettec-system-india/"><i class="icon-whatsapp"></i></a></li>									
+									<li><a href="https://wasap.my/60123501024"><i class="icon-whatsapp"></i></a></li>									
 								</ul>
 							</p>
 						</div>
-						<div class="col-xs-2">
+						<div class="col-xs-6 col-lg-2">
 							
 
 							<h4>Malaysia</h4>
 							<ul class="colorlib-footer-links" >								
-								<li style="height:100px;">Mettec Systeme Sdn Bhd
+								<li style="height:24vh;">Mettec Systeme Sdn Bhd
 									<br>(1169100-K)
 									<br>Lot 684-A, Jalan 2C, 
 									<br>Kampung Baru Subang,
@@ -31,10 +31,10 @@
 							</ul>
 
 						</div>
-						<div class="col-xs-2">
+						<div class="col-xs-6 col-lg-2">
 							<h4>India</h4>
 							<ul class="colorlib-footer-links" >
-								<li style="height:100px;">Mettec Systeme India Pvt Ltd
+								<li style="height:24vh;">Mettec Systeme India Pvt Ltd
 									<br>No 408 - B, Kailas Business Park, 
 									<br>Hiranandani Vikhroli Road, 							
 									<br>Vikhroli West, 
@@ -44,10 +44,10 @@
 								
 							</ul>
 						</div>
-						<div class="col-xs-2">
+						<div class="col-xs-6 col-lg-2">
 							<h4>Bangladesh</h4>
 							<ul class="colorlib-footer-links">
-								<li style="height:50px;">SKF Easy Tech Co. BD
+								<li style="height:24vh;">SKF Easy Tech Co. BD
 						
 									<br>510, Lucky Plaza, 
 									<br>8 Agrabad C/A,
@@ -59,10 +59,10 @@
 								
 							</ul>
 						</div>
-						<div class="col-xs-2">
+						<div class="col-xs-6 col-lg-2">
 							<h4>Sri Lanka</h4>
 							<ul class="colorlib-footer-links">
-								<li style="height:30px;">Mettec Systeme Lanka (Pvt) Ltd
+								<li style="height:24vh;">Mettec Systeme Lanka (Pvt) Ltd
 						
 									<br>No 205 – A/1A, 
 									<br>Allen Avenue, Dehiwala,
