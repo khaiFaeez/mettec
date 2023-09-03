@@ -38,9 +38,16 @@
 												
 						<br>
 						{/if}
-						<a class="btn-download" target="__blank" href="./brochure/{$product.brochure}">
+
+						{if $product.brochure != NULL}	
+						<a class="btn btn-warning" target="__blank" href="./brochure/{$product.brochure}">
 							<i class="far fa-file-pdf" aria-hidden="true"></i>&nbsp;&nbsp;Download Brochure
 						</a>
+						{/if}
+						<a class="btn btn-success" target="__blank" href="https://wasap.my/60123501024/I'd like to know more about this product, {strip_tags($product.product_name)}">
+							<i class="icon-whatsapp" aria-hidden="true"></i>&nbsp;&nbsp;Inquire Qoutation
+						</a>	
+						
 					</div>	
 					<div class="col-md-6">
 						<img class="img-responsive" src="images/{if $product.product_image != ""}{$product.product_image}{else}dummy-image.jpg{/if}" >
