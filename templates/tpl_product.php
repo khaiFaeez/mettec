@@ -156,6 +156,49 @@
 		</div>
 		{/if}
 
+
+
+	
+		<div id="colorlib-about" {if $product.application_1|strip_tags:false|substr:0:1 != "#"}class="colorlib-light-grey"{/if}>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 text-center animate-box colorlib-heading mb-0">
+						<span class="sm">Product Lines</span>						
+					</div>
+				</div>
+				
+				<div class="row ">
+				{for $i=0 to ($total_productlines-1)}						
+					
+				
+				
+					<div class="row">					
+					<div class="col-md-5">
+						<img class="img-responsive " style="width: 30%; margin-left: auto;" src="https://www.mettecsysteme.com/images/{$product_lines[$i]['product_images']}" >
+					</div>
+					<div class="col-md-6 col-md-offset-1  colorlib-heading inline-span ">
+						<h4  style="margin-bottom: 0px;"><span class="thin">{$product_lines[$i]['product_line_name']}</span></h4>
+						<p class="text-justify">{$product_lines[$i]['product_line_brief']}</p>
+						<p class="text-justify">{$product_lines[$i]['product_line_desc']}</p>
+						<br>
+						<a class="btn btn-xs btn-warning" target="__blank" href="./brochure/{$product_lines[$i]['product_brochure']}">
+							<i class="far fa-file-pdf" aria-hidden="true"></i>&nbsp;&nbsp;Download Brochure
+						</a>
+						<br>
+					</div>
+					
+
+				
+									
+				</div>
+								
+				
+				{/for}
+				</div>
+			</div>
+		</div>
+	
+
 		{if substr(strip_tags($product.certification_desc),0,1) != "#" && substr(strip_tags($product.download_desc),0,1) != "#"}
 		<div id="colorlib-testimony" >
 			<div class="container">
