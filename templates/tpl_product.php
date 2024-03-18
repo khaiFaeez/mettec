@@ -174,7 +174,7 @@
 				
 					<div class="row">					
 					<div class="col-md-5">
-						<img class="img-responsive " style="width: 30%; margin-left: auto;" src="https://www.mettecsysteme.com/images/{$product_lines[$i]['product_images']}" >
+						<img class="img-responsive " style="width: 30%; margin-left: auto;" src="/images/product_lines/{$product_lines[$i]['product_images']}" >
 					</div>
 					<div class="col-md-6 col-md-offset-1  colorlib-heading inline-span ">
 						<h4  style="margin-bottom: 0px;"><span class="thin">{$product_lines[$i]['product_line_name']}</span></h4>
