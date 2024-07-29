@@ -21,9 +21,9 @@
 							<ul class="colorlib-footer-links" >								
 								<li style="height:27vh;">Mettec Systeme Sdn Bhd
 									<br>(1169100-K)
-									<br>Lot 684-A, Jalan 2C, 
-									<br>Kampung Baru Subang,
-									<br>40150 Shah Alam, 
+									<br>No 10, Jalan Rajawali 5,
+									<br>Kawasan Perusahaan Kebun Baru,
+									<br>42500 Teluk Panglima Garang,
 									<br>Selangor, Malaysia.<br><br>
 								</li>
 								<li><a href="tel://60123501024"><i class="icon-phone"></i>&nbsp;&nbsp;+6012 350 1024</a></li>
@@ -35,12 +35,12 @@
 							<h4>India</h4>
 							<ul class="colorlib-footer-links" >
 								<li style="height:27vh;">Mettec Systeme India Pvt Ltd
-									<br>No 408 - B, Kailas Business Park, 
-									<br>Hiranandani Vikhroli Road, 							
-									<br>Vikhroli West, 
-									<br>400079, Mumbai,
+									<br>No 26, Rukma Industrial Premises Co-Op Society,
+									<br>Bombay - Nashik Highway, 							
+									<br>Asaongaon, 
+									<br>421601, Mumbai, 
 									<br>Maharashtra, INDIA 
-								<li><a href="tel://91224608102"><i class="icon-phone"></i>&nbsp;&nbsp;+9122 4608 1024</a></li>
+								<li><a href="tel://919930761438"><i class="icon-phone"></i>&nbsp;&nbsp;+91 99307 61438</a></li>
 								
 							</ul>
 						</div>
